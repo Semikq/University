@@ -1,0 +1,38 @@
+﻿  pch.cpp
+  AtmLibrary.cpp
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.cpp(12,12): warning C4273: atm::Bankomat::Bankomat: несовместимое связывание dll
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.h(22,3): message : см. предыдущее определение "{ctor}"
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.cpp(14,12): warning C4273: atm::Bankomat::Bankomat: несовместимое связывание dll
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.h(23,3): message : см. предыдущее определение "{ctor}"
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.cpp(16,12): warning C4273: atm::Bankomat::Bankomat: несовместимое связывание dll
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.h(24,3): message : см. предыдущее определение "{ctor}"
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.cpp(18,12): warning C4273: atm::Bankomat::Bankomat: несовместимое связывание dll
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.h(25,3): message : см. предыдущее определение "{ctor}"
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.cpp(22,17): warning C4273: atm::Bankomat::operator ==: несовместимое связывание dll
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.h(28,25): message : см. предыдущее определение "=="
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.cpp(23,17): warning C4273: atm::Bankomat::operator !=: несовместимое связывание dll
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.h(29,25): message : см. предыдущее определение "!="
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.cpp(24,17): warning C4273: atm::Bankomat::operator >=: несовместимое связывание dll
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.h(30,25): message : см. предыдущее определение ">="
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.cpp(25,17): warning C4273: atm::Bankomat::operator <=: несовместимое связывание dll
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.h(31,25): message : см. предыдущее определение "<="
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.cpp(26,17): warning C4273: atm::Bankomat::operator >: несовместимое связывание dll
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.h(32,25): message : см. предыдущее определение ">"
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.cpp(27,17): warning C4273: atm::Bankomat::operator <: несовместимое связывание dll
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.h(33,25): message : см. предыдущее определение "<"
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.cpp(30,17): warning C4273: atm::Bankomat::inMoney: несовместимое связывание dll
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.h(35,25): message : см. предыдущее определение "inMoney"
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.cpp(39,17): warning C4273: atm::Bankomat::outMoney: несовместимое связывание dll
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.h(36,25): message : см. предыдущее определение "outMoney"
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.cpp(71,17): warning C4273: atm::Bankomat::initID: несовместимое связывание dll
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.h(38,25): message : см. предыдущее определение "initID"
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.cpp(73,17): warning C4273: atm::Bankomat::initMoney: несовместимое связывание dll
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.h(39,25): message : см. предыдущее определение "initMoney"
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.cpp(75,17): warning C4273: atm::Bankomat::read: несовместимое связывание dll
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.h(40,25): message : см. предыдущее определение "read"
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.cpp(82,17): warning C4273: atm::Bankomat::display: несовместимое связывание dll
+D:\VS PROJECTS\AtmProject\AtmLibrary\AtmLibrary\AtmLibrary.h(41,25): message : см. предыдущее определение "display"
+  dllmain.cpp
+  Создание кода...
+     Создается библиотека D:\VS PROJECTS\AtmProject\AtmLibrary\x64\Debug\AtmLibrary.lib и объект D:\VS PROJECTS\AtmProject\AtmLibrary\x64\Debug\AtmLibrary.exp
+  AtmLibrary.vcxproj -> D:\VS PROJECTS\AtmProject\AtmLibrary\x64\Debug\AtmLibrary.dll
