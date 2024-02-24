@@ -1,0 +1,10 @@
+D:\VS PROJECTS\Yarik OOP 15\Yarik OOP 15\bin\Debug\Yarik OOP 15.exe.config
+D:\VS PROJECTS\Yarik OOP 15\Yarik OOP 15\bin\Debug\Yarik OOP 15.exe
+D:\VS PROJECTS\Yarik OOP 15\Yarik OOP 15\bin\Debug\Yarik OOP 15.pdb
+D:\VS PROJECTS\Yarik OOP 15\Yarik OOP 15\obj\Debug\Yarik OOP 15.csproj.AssemblyReference.cache
+D:\VS PROJECTS\Yarik OOP 15\Yarik OOP 15\obj\Debug\Yarik_OOP_15.Form1.resources
+D:\VS PROJECTS\Yarik OOP 15\Yarik OOP 15\obj\Debug\Yarik_OOP_15.Properties.Resources.resources
+D:\VS PROJECTS\Yarik OOP 15\Yarik OOP 15\obj\Debug\Yarik OOP 15.csproj.GenerateResource.cache
+D:\VS PROJECTS\Yarik OOP 15\Yarik OOP 15\obj\Debug\Yarik OOP 15.csproj.CoreCompileInputs.cache
+D:\VS PROJECTS\Yarik OOP 15\Yarik OOP 15\obj\Debug\Yarik OOP 15.exe
+D:\VS PROJECTS\Yarik OOP 15\Yarik OOP 15\obj\Debug\Yarik OOP 15.pdb
