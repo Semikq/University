@@ -1,0 +1,20 @@
+D:\VS PROJECTS\Yaroslav OOP17\Yaroslav OOP17\bin\Debug\Yaroslav OOP17.exe.config
+D:\VS PROJECTS\Yaroslav OOP17\Yaroslav OOP17\bin\Debug\Yaroslav OOP17.exe
+D:\VS PROJECTS\Yaroslav OOP17\Yaroslav OOP17\bin\Debug\Yaroslav OOP17.pdb
+D:\VS PROJECTS\Yaroslav OOP17\Yaroslav OOP17\obj\Debug\Yaroslav OOP17.csproj.AssemblyReference.cache
+D:\VS PROJECTS\Yaroslav OOP17\Yaroslav OOP17\obj\Debug\Yaroslav_OOP17.Form1.resources
+D:\VS PROJECTS\Yaroslav OOP17\Yaroslav OOP17\obj\Debug\Yaroslav_OOP17.Properties.Resources.resources
+D:\VS PROJECTS\Yaroslav OOP17\Yaroslav OOP17\obj\Debug\Yaroslav OOP17.csproj.GenerateResource.cache
+D:\VS PROJECTS\Yaroslav OOP17\Yaroslav OOP17\obj\Debug\Yaroslav OOP17.csproj.CoreCompileInputs.cache
+D:\VS PROJECTS\Yaroslav OOP17\Yaroslav OOP17\obj\Debug\Yaroslav OOP17.exe
+D:\VS PROJECTS\Yaroslav OOP17\Yaroslav OOP17\obj\Debug\Yaroslav OOP17.pdb
+C:\Users\rosty\OneDrive\Рабочий стол\Yaroslav OOP17\Yaroslav OOP17\bin\Debug\Yaroslav OOP17.exe.config
+C:\Users\rosty\OneDrive\Рабочий стол\Yaroslav OOP17\Yaroslav OOP17\bin\Debug\Yaroslav OOP17.exe
+C:\Users\rosty\OneDrive\Рабочий стол\Yaroslav OOP17\Yaroslav OOP17\bin\Debug\Yaroslav OOP17.pdb
+C:\Users\rosty\OneDrive\Рабочий стол\Yaroslav OOP17\Yaroslav OOP17\obj\Debug\Yaroslav OOP17.csproj.AssemblyReference.cache
+C:\Users\rosty\OneDrive\Рабочий стол\Yaroslav OOP17\Yaroslav OOP17\obj\Debug\Yaroslav_OOP17.Form1.resources
+C:\Users\rosty\OneDrive\Рабочий стол\Yaroslav OOP17\Yaroslav OOP17\obj\Debug\Yaroslav_OOP17.Properties.Resources.resources
+C:\Users\rosty\OneDrive\Рабочий стол\Yaroslav OOP17\Yaroslav OOP17\obj\Debug\Yaroslav OOP17.csproj.GenerateResource.cache
+C:\Users\rosty\OneDrive\Рабочий стол\Yaroslav OOP17\Yaroslav OOP17\obj\Debug\Yaroslav OOP17.csproj.CoreCompileInputs.cache
+C:\Users\rosty\OneDrive\Рабочий стол\Yaroslav OOP17\Yaroslav OOP17\obj\Debug\Yaroslav OOP17.exe
+C:\Users\rosty\OneDrive\Рабочий стол\Yaroslav OOP17\Yaroslav OOP17\obj\Debug\Yaroslav OOP17.pdb
