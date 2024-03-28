@@ -1,0 +1,10 @@
+D:\VS PROJECTS\YarikOOP19\YarikOOP19\bin\Debug\YarikOOP19.exe.config
+D:\VS PROJECTS\YarikOOP19\YarikOOP19\bin\Debug\YarikOOP19.exe
+D:\VS PROJECTS\YarikOOP19\YarikOOP19\bin\Debug\YarikOOP19.pdb
+D:\VS PROJECTS\YarikOOP19\YarikOOP19\obj\Debug\YarikOOP19.csproj.AssemblyReference.cache
+D:\VS PROJECTS\YarikOOP19\YarikOOP19\obj\Debug\YarikOOP19.Form1.resources
+D:\VS PROJECTS\YarikOOP19\YarikOOP19\obj\Debug\YarikOOP19.Properties.Resources.resources
+D:\VS PROJECTS\YarikOOP19\YarikOOP19\obj\Debug\YarikOOP19.csproj.GenerateResource.cache
+D:\VS PROJECTS\YarikOOP19\YarikOOP19\obj\Debug\YarikOOP19.csproj.CoreCompileInputs.cache
+D:\VS PROJECTS\YarikOOP19\YarikOOP19\obj\Debug\YarikOOP19.exe
+D:\VS PROJECTS\YarikOOP19\YarikOOP19\obj\Debug\YarikOOP19.pdb
