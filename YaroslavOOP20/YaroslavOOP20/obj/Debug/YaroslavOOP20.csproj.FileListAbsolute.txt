@@ -1,0 +1,10 @@
+D:\VS PROJECTS\YaroslavOOP20\YaroslavOOP20\bin\Debug\YaroslavOOP20.exe.config
+D:\VS PROJECTS\YaroslavOOP20\YaroslavOOP20\bin\Debug\YaroslavOOP20.exe
+D:\VS PROJECTS\YaroslavOOP20\YaroslavOOP20\bin\Debug\YaroslavOOP20.pdb
+D:\VS PROJECTS\YaroslavOOP20\YaroslavOOP20\obj\Debug\YaroslavOOP20.csproj.AssemblyReference.cache
+D:\VS PROJECTS\YaroslavOOP20\YaroslavOOP20\obj\Debug\YaroslavOOP20.Form1.resources
+D:\VS PROJECTS\YaroslavOOP20\YaroslavOOP20\obj\Debug\YaroslavOOP20.Properties.Resources.resources
+D:\VS PROJECTS\YaroslavOOP20\YaroslavOOP20\obj\Debug\YaroslavOOP20.csproj.GenerateResource.cache
+D:\VS PROJECTS\YaroslavOOP20\YaroslavOOP20\obj\Debug\YaroslavOOP20.csproj.CoreCompileInputs.cache
+D:\VS PROJECTS\YaroslavOOP20\YaroslavOOP20\obj\Debug\YaroslavOOP20.exe
+D:\VS PROJECTS\YaroslavOOP20\YaroslavOOP20\obj\Debug\YaroslavOOP20.pdb
